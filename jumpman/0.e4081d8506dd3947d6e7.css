@@ -1,0 +1,258 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,500);
+.RMQhq {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+}
+
+.RMQhq > svg {
+  width: 125px;
+}
+._1R0Q0 {
+  min-height: 100px;
+}
+
+._1R0Q0 > div {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: block;
+}
+
+._1R0Q0 > div > img {
+  width: 1920px;
+  height: 1200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin: 0 auto;
+}
+._2JIic {
+  min-height: 100px;
+  margin-left: 40px;
+  padding: 10px 5px;
+  text-align: center;
+  font-size: 1.4em;
+  margin-bottom: 15px;
+}
+
+@media (min-width: 768px) { 
+  ._2JIic {
+    margin-left: 0;
+  }
+}
+._1SoSr {
+  min-height: 100px;
+  background: var(--font-color);
+  margin-left: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-top-left-radius: 5px;
+}
+
+@media (min-width: 768px) { 
+  ._1SoSr {
+    margin-left: 0;
+    border-radius: 0;
+  }
+}
+._3GIp7 {
+  min-height: 100px;
+  margin: 20px 0;
+}
+
+._3GIp7 > ._2snKI {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: flex-end;
+}
+
+._3GIp7 > ._2snKI > div {
+  margin: 1em 1em !important;
+  cursor: pointer;
+  transition: box-shadow 500ms ease-in-out;
+}
+
+@media (min-width: 768px) { 
+  ._3GIp7 > ._2snKI {
+    justify-content: center;
+  }
+}
+/* .shop > .list > div {
+  margin: 1em 1em !important;
+  cursor: pointer;
+  transition: box-shadow 500ms ease-in-out;
+}
+
+.shop > .list > div:hover {
+  box-shadow: 5px 5px 10px black;
+} */
+
+._26odp > img {
+  transition: transform 500ms ease-in-out;
+  transform: scale(1);
+}
+
+div:hover > ._26odp > img {
+  transform: scale(.7);
+  transform-origin: center;
+}
+
+._30AUY {
+  position: absolute;
+  top: 19rem;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 500ms ease-in-out;
+}
+
+div:hover > ._30AUY  {
+  opacity: 1;
+}
+
+._2oIhN {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+._2oIhN > span:nth-child(2) {
+  display: flex;
+  justify-content: flex-end;
+}
+#_1HKcN {
+  display: flex;
+  position: fixed;
+  align-items: center;
+  width: 100vh;
+  padding: 10px 20px;
+  transform: rotate(-90deg);
+  top: 100%;
+  transform-origin: left top;
+  z-index: 2;
+}
+
+#_1HKcN > span > a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+#_1HKcN > span:nth-child(1) {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+#_1HKcN > span:nth-child(n+2) {
+  margin-left: 10px;
+  display: block;
+  position: relative;
+  text-transform: uppercase;
+  font-size: 1em;
+}
+
+#_1HKcN > span:nth-child(2) {
+  margin-left: 30px;
+}
+
+#_1HKcN > span:nth-child(5) {
+  flex: 1;
+  text-align: right;
+}
+
+#_1HKcN > span:nth-child(5) > i {
+  transform: rotate(90deg);
+  transform-origin: center;
+}
+
+#_1HKcN > span:not(:first-child):not(:last-child)::after {
+  content: '';
+  background: black;
+  transform-origin: left;
+  transform: scale(0);
+  transition: transform 500ms ease-in-out;
+  height: 1px;
+  width: 25px;
+  display: block;
+  position: absolute;
+}
+
+#_1HKcN > span:not(:first-child):not(:last-child):hover::after{
+  transform: scale(1);
+}
+
+@media (min-width: 768px) { 
+  #_1HKcN {
+    width: calc(100vw - 40px);
+    transform: rotate(0deg);
+    top: 0%;
+    position: absolute;
+  }
+
+  #_1HKcN > span:nth-child(5) > i {
+    transform: rotate(0deg);
+    cursor: pointer;
+  }
+}
+._2omFd {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9;
+  background: var(--bg-color);
+  opacity: 1;
+  visibility: visible;
+  transition: visibility 0s linear 500ms, opacity 500ms ease-in-out;
+}
+
+._2omFd._3jkLi {
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1;
+}
+
+._2omFd > ._2aZy4 > svg {
+  width: 150px;
+}
+
+._2omFd > ._2aZy4 > .dFOBl {
+  height: 11px;
+  width: 100%;
+  border: 1px solid black;
+  padding: 1px;
+}
+
+._2omFd > ._2aZy4 > .dFOBl > ._26BAp {
+  width: 100%;
+  height: 7px;
+  background: black;
+}
+
+._2omFd > ._2aZy4 > div:nth-child(3) {
+  text-align: center;
+  font-size: .8em;
+}
+/* DEFAULTS [S] */
+
+:root {
+  --bg-color: rgb(188,3,43);
+  --font-color: black;
+  --white-color: white;
+}
+
+body {
+  background: rgb(188,3,43);
+  background: var(--bg-color);
+  font-family: 'Roboto Slab';
+  /* overflow: hidden; */
+}
+
+/* DEFAULTS [E] */
