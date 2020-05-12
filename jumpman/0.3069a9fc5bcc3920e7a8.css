@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,500);
 .RMQhq {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  display: block;
+  position: relative;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 
 .RMQhq > svg {
@@ -70,6 +70,7 @@
   flex-wrap: wrap;
   position: relative;
   justify-content: flex-end;
+  margin-left: 30px;
 }
 
 ._3GIp7 > ._2snKI > div {
@@ -83,15 +84,9 @@
     justify-content: center;
   }
 }
-/* .shop > .list > div {
-  margin: 1em 1em !important;
-  cursor: pointer;
-  transition: box-shadow 500ms ease-in-out;
+#_2bd9m {
+  max-width: 300px;
 }
-
-.shop > .list > div:hover {
-  box-shadow: 5px 5px 10px black;
-} */
 
 ._26odp > img {
   transition: transform 500ms ease-in-out;
@@ -129,7 +124,7 @@ div:hover > ._30AUY  {
   display: flex;
   position: fixed;
   align-items: center;
-  width: 100vh;
+  width: calc(100vh - 40px);
   padding: 10px 20px;
   transform: rotate(-90deg);
   top: 100%;
