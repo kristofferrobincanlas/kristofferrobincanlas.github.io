@@ -36,6 +36,12 @@
 ._13ec- > i {
   color: white;
   font-size: 2.5em;
+  transition: color 300ms ease;
+  text-shadow: 1px 3px 3px black;
+}
+
+._13ec- > i:hover { 
+  color: wheat;
 }
 
 @media (min-width: 768px) { 
@@ -113,7 +119,7 @@
 
 @media (min-width: 768px) {
   #_2YU62 .-uahq, #_2YU62 > i {
-    font-size: 3em;
+    font-size: 2.5em;
   }
 
   #_2YU62 ._33Bri {
