@@ -5,7 +5,7 @@
   position: absolute;
   display: block;
   top: 0;
-  transform: translateX(-100%);
+  transform: translateY(-100%);
   transition: transform 500ms ease-in-out;
   background: var(--midnight-black);
   z-index: 9;
@@ -13,7 +13,7 @@
 }
 
 ._368aN.B6dGk {
-  transform: translateX(0%);
+  transform: translateY(0%);
 }
 
 ._13ec- {
@@ -46,7 +46,7 @@
 
 @media (min-width: 768px) { 
   ._368aN {
-    width: 50%;
+    width: 500px;
     padding-left: 1em;
     padding-right: 1em;
   }
