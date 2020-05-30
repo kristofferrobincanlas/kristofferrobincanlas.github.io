@@ -89,12 +89,6 @@
   margin-left: 30px;
 }
 
-._3GIp7 > ._2snKI > div {
-  margin: 1em 1em !important;
-  cursor: pointer;
-  transition: box-shadow 500ms ease-in-out;
-}
-
 @media (min-width: 768px) { 
   ._3GIp7 > ._2snKI {
     justify-content: center;
@@ -103,6 +97,8 @@
 #_2bd9m {
   max-width: 300px;
   box-shadow: 0px 0px 18px 2px black;
+  margin: 1em 1em !important;
+  cursor: pointer;
 }
 
 ._26odp > img {
@@ -110,7 +106,7 @@
   transform: scale(1);
 }
 
-div:hover > ._26odp > img {
+a:hover > ._26odp > img {
   transform: scale(.7);
   transform-origin: center;
 }
@@ -123,9 +119,10 @@ div:hover > ._26odp > img {
   opacity: 0;
   transition: opacity 500ms ease-in-out;
   word-spacing: 10px;
+  color: black;
 }
 
-div:hover > ._30AUY  {
+a:hover > ._30AUY  {
   opacity: 1;
 }
 
