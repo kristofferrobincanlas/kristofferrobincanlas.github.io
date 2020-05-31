@@ -178,6 +178,7 @@ a:hover > ._30AUY  {
 #_1HKcN > span:nth-child(5) > i {
   transform: rotate(90deg);
   transform-origin: center;
+  margin-left: 10px;
 }
 
 #_1HKcN > span:not(:first-child):not(:last-child)::after {
@@ -196,6 +197,10 @@ a:hover > ._30AUY  {
   transform: scale(1);
 }
 
+.aMgce {
+  font-size: .7em;
+}
+
 @media (min-width: 768px) { 
   #_1HKcN {
     width: calc(100vw - 15px);
@@ -207,6 +212,7 @@ a:hover > ._30AUY  {
   #_1HKcN > span:nth-child(5) > i {
     transform: rotate(0deg);
     cursor: pointer;
+    margin-left: 25px;
   }
 }
 ._2omFd {
