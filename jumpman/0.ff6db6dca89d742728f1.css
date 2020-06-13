@@ -222,6 +222,10 @@ a:hover > ._30AUY  {
     font-size: 1em;
   }
 
+  #_1HKcN > span:nth-child(n+6) {
+    cursor: pointer;
+  }
+
    #_1HKcN > span:not(:first-child):not(:last-child):hover::after{
     transform: scale(1);
   }
