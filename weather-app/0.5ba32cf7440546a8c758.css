@@ -1,0 +1,363 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500);
+._3F23W {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.ru-Z8 {
+  height: 6px;
+  width: 6px;
+  background-color: white;
+  opacity: .7;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+}
+
+._2lpRt {
+  animation: _38Zl- .5s ease-out;
+  -webkit-animation: _38Zl- .5s ease-out;
+  animation-iteration-count: 3;
+  -webkit-animation-iteration-count: 3;
+  border: 3px solid #fff;
+  pointer-events: none;
+  height: 28px;
+  width: 28px;
+  margin-left: -9px;
+  margin-top: -9px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  opacity: 0;
+}
+
+._2lpRt._11h4g {
+  animation: _38Zl- 2s ease-out;
+  -webkit-animation: _38Zl- 2s ease-out;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@keyframes _38Zl- {
+  0% { transform:scale(.1, .1); opacity:0 }
+  50% { opacity:1 }
+  100% {transform:scale(1.2, 1.2); opacity:0 }
+}
+
+@keyframes _2AORO {
+  0% { opacity:1 }
+  50% { opacity:.3 }
+  100% { opacity:1 } 
+}
+
+._2sUBN {
+  font-size: 2em;
+}
+._361P6 {
+  display: none;
+}
+
+._2_Dlz {
+  display: none;
+}
+
+/* * to tablet */
+
+@media (min-width: 550px) { 
+  ._361P6 {
+    display: block;
+    /* width: calc(100% - 145px); */
+    width: calc(100% - 65px);
+    height: 35px;
+    font-size: 14px;
+    padding: 0px 20px 0px 40px;
+    border: 1px solid #ddd;
+    margin: 12px 0 12px 5px;
+    border-radius: 18px;
+    box-shadow: 0 0 4px 0 black;
+  }
+
+  ._2_Dlz {
+    display: block;
+    background-image: url('https://www.w3schools.com/css/searchicon.png'); /* Add a search icon to input */
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    width: 34px;
+    height: 35px;
+    cursor: pointer;
+    margin: 12px 0 12px 5px;
+  }
+}
+
+/* * to desktop */
+
+@media (min-width: 768px) { 
+
+}
+.zsznE {
+  display: block;
+  position: fixed;
+  top: 0;
+  width: 35px;
+  height: 35px;
+  color: var(--font-color-white);
+  text-shadow: 0 0 4px black;
+  font-size: 25px;
+  right: 5%;
+  top: 70%;
+  z-index: 1;
+}
+
+._2vBPE {
+  background: rgba(68,65,65,0.83922);
+  height: 45px;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  transform: scale(0);
+  transform-origin: top left;
+  transition: 100ms all;
+  z-index: 1;
+}
+
+._2vBPE._2eFCT {
+  transform: scale(1);
+}
+
+._2abAg {
+  background: transparent;
+  color: white;
+  border: none;
+  outline-width: 0;
+  height: 100%;
+  text-decoration: none;
+}
+
+.hjKZb {
+  font-size: 25px;
+  color: var(--font-color-white);
+  text-shadow: 0 0 4px black;
+}
+
+._3_N7E {
+  height: calc(100vh - 45px);
+  width: 100%;
+  top: 45px;
+  position: absolute;
+  z-index: 1;
+  background: rgba(128,128,128,0.5098);
+  transition: opacity 300ms ease-in, visibility 0s ease 0s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+._3_N7E._2eFCT {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* * to tablet */
+
+@media (min-width: 550px) { 
+  .zsznE, 
+  ._2vBPE, 
+  ._3_N7E {
+    display: none;
+  }
+  
+}
+
+/* * to desktop */
+
+@media (min-width: 768px) { 
+
+}
+._2-Hw6 {
+  /* Remove default list styling */
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  position: absolute;
+  /* margin-top: 55px; */
+  margin-top: 40px;
+  z-index: 1;
+}
+
+._2-Hw6 li div {
+  height: 33px;
+  margin: 0 !important; /* Prevent double borders */
+  padding: 12px 12px 0px; /* Add some padding */
+  text-decoration: none; /* Remove default text underline */
+  color: black; /* Add a black text color */
+  display: block; /* Make it into a block element to fill the whole list */
+  text-shadow: 1px 1px 1px rgb(0 0 0 / 63%);
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+  display: flex;
+  font-size: 15px;
+  flex-direction: column;
+}
+
+._2-Hw6 li div span {
+  align-items: self-end;
+  display: flex;
+}
+
+._2-Hw6 li div span:not(:first-child) {
+  font-weight: 300;
+  /* font-size: 85%; */
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+._2-Hw6 li div:hover:not(._2sDJP) {
+  background-color: rgba(236,236,236,0.33); /* Add a hover effect to all links, except for headers */
+}
+
+._1gBwD {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  opacity: .9;
+  height: 100vh;
+  transform: scale(1.1);
+  transform-origin: center;
+}
+
+._3ish1 {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+._3ish1 div {
+  position: absolute;
+  border: 4px solid #cef;
+  opacity: 1;
+  border-radius: 50%;
+  animation: _3ish1 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+._3ish1 div:nth-child(2) {
+  animation-delay: -0.5s;
+}
+
+@keyframes _3ish1 {
+  0% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+  100% {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+    opacity: 0;
+  }
+}
+
+/* * to tablet */
+
+@media (min-width: 550px) { 
+
+}
+
+/* * to desktop */
+
+@media (min-width: 768px) { 
+  ._2-Hw6 {
+    margin-top: 50px;
+    width: 50%;
+  }
+
+  ._2-Hw6 li div { 
+    font-size: 22px; /* Increase the font-size */
+    flex-direction: row;
+  }
+
+  ._2-Hw6 li div span {
+    justify-content: center;
+  }
+
+  ._2-Hw6 li div span:last-child {
+    display: inherit;
+  }
+
+  ._1gBwD {
+    transform: scale(1);
+  }
+}
+
+/* to desktop */
+
+@media (min-width: 1025px) {  
+
+}
+._2qCPL {
+  position: absolute;
+  z-index: 1;
+  width: 78vw;
+
+  transform-origin: left top;
+  transition: .25s all 2s;
+
+}
+  
+/* * to tablet */
+  
+@media (min-width: 550px) { 
+  ._2qCPL {
+    width: 50vw;
+  }
+
+  ._2qCPL.vF7L1 {
+    transition: .25s all 0s;
+    transform: scaleX(1.1) scaleY(1.1);
+  }
+}
+  
+/* * to desktop */
+  
+@media (min-width: 768px) { 
+  ._2qCPL {
+    width: 30vw;
+  }
+}
+  
+/* to desktop */
+  
+@media (min-width: 1025px) {  
+  ._2qCPL {
+    width: 30vw;
+  }
+}
+/* DEFAULTS [S] */
+
+:root {
+  --bg-color: rgb(232, 68, 54);
+  --default-color: lightblue;
+  --gradient-color: linear-gradient(to bottom, rgb(243, 112, 92), rgb(238, 92, 75), rgb(232, 68, 54));
+  --font-color-white: #fff3e1;
+}
+
+body {
+  font-family: -apple-system,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',sans-serif;
+}
+
+/* DEFAULTS [E] */
