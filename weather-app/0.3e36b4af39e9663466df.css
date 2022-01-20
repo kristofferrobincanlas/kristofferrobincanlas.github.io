@@ -360,4 +360,13 @@ body {
   font-family: -apple-system,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',sans-serif;
 }
 
+input[type=text] {   
+  /* Remove First */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline-width: 0;
+  outline: none;
+}
+
 /* DEFAULTS [E] */
