@@ -1,0 +1,185 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500);
+._1vK49 {
+  position: absolute;
+  color: #fff;
+  font-weight: bold;
+  font-size: 2.2em;
+  top: 1em;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.5em;
+  margin: 0 1em;
+}
+
+._33dIt {
+  position: absolute;
+  color: #fff;
+  font-size: 1em;
+  bottom: 0;
+}
+
+._1c58g {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 768px) { 
+  ._368aN {
+    width: 500px;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+._2-1bp {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  z-index: 91;
+  background: #3d5e80;
+}
+
+._3XlLL {
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-color: #fff;
+  position: absolute;
+
+  border-radius: 100%;
+  animation: _3789V 1.0s infinite ease-in-out;
+}
+
+@keyframes _3789V {
+  0% {
+    transform: scale(0);
+  } 100% {
+    transform: scale(1.0);
+    opacity: 0;
+  }
+}
+#_2KGeP {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/*  Make our map take the full viewport - 100% */
+
+._3auwv,
+._3IFrC {
+  width: 100%;
+  height: 100%;
+}
+
+/* Tooltip code */
+
+._1-CvP {
+  font-family: "Baloo Thambi 2", cursive;
+  font-size: 10px;
+  padding: 0;
+  margin: 0;
+  color: #424242;
+}
+
+._2nBJ5 {
+  padding: 1rem;
+  margin: 0;
+}
+
+._2nBJ5 * {
+    margin: 0 0 0.5rem;
+    padding: 0;
+}
+
+._2nBJ5 p {
+  border-bottom: 1px solid rgba(black, 0.2);
+}
+
+._2nBJ5 p b {
+  font-size: 1.6rem;
+  color: #212121;
+  padding: 0 5px;
+}
+
+._2nBJ5 img {
+  width: 4rem;
+  height: 4rem;
+}
+
+.X3Bvp {
+  color: var(--cases-color);
+}
+
+._33wTd {
+  color: var(--deaths-color);
+}
+
+._1_qCQ {
+  color: var(--recovered-color);
+}
+
+._2wgLF {
+  border: 1px solid black;
+  position: relative;
+  display: block;
+}
+
+.kEmFC {
+  position: absolute;
+  z-index: 9;
+  color: white;
+  right: 0;
+  top: 8em;
+  cursor: pointer;
+  padding-right: .5em;
+}
+
+._2Cnsv {
+  position: absolute;
+    z-index: 1;
+    margin: 1em;
+}
+
+.ZLD88 {
+  position: absolute !important;
+  z-index: 1;
+  margin: 1em;
+  left: 12em;
+  top: 1em;
+  cursor: pointer;
+}
+/* DEFAULTS [S] */
+
+:root {
+  --midnight-black: rgba(11,11,45,0.98039);
+  --cases-color: rgb(122, 182, 202);
+  --deaths-color: rgb(209, 47, 47);
+  --recovered-color: rgb(44, 202, 5);
+  --bg-color: rgb(53, 57, 64);
+  --bg-color-2: rgb(62, 146, 163);
+  --font-color: rgb(223, 224, 212);
+  --font-color-2: rgb(62, 146, 163);
+  --bg-color-3: rgb(250, 110, 112);
+  --background-color: #708090;
+  --background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 200 200'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='100' y1='33' x2='100' y2='-3'%3E%3Cstop offset='0' stop-color='%23000' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23000' stop-opacity='1'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' gradientUnits='userSpaceOnUse' x1='100' y1='135' x2='100' y2='97'%3E%3Cstop offset='0' stop-color='%23000' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23000' stop-opacity='1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='%235f6d7a' fill-opacity='0.6'%3E%3Crect x='100' width='100' height='100'/%3E%3Crect y='100' width='100' height='100'/%3E%3C/g%3E%3Cg fill-opacity='0.5'%3E%3Cpolygon fill='url(%23a)' points='100 30 0 0 200 0'/%3E%3Cpolygon fill='url(%23b)' points='100 100 0 130 0 100 200 100 200 130'/%3E%3C/g%3E%3C/svg%3E");
+
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  transition: background 500ms ease-in-out;
+  background: rgba(11,11,45,0.98039);
+  background: var(--midnight-black);
+}
+
+/* DEFAULTS [E] */
