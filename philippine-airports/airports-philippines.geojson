@@ -1,0 +1,1449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00445,
+          14.50499
+        ]
+      },
+      "properties": {
+        "name": "Ninoy Aquino International Airport",
+        "country": "Philippines",
+        "region": "National Capital Region",
+        "elevation_m": 22,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1701661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.38117,
+          11.68636
+        ]
+      },
+      "properties": {
+        "name": "Kalibo International Airport",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": 3,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1709634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.06042,
+          6.92242
+        ]
+      },
+      "properties": {
+        "name": "Zamboanga International Airport",
+        "country": "Philippines",
+        "region": "Zamboanga Peninsula",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1679433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56033,
+          15.18599
+        ]
+      },
+      "properties": {
+        "name": "Clark International Airport",
+        "country": "Philippines",
+        "region": "Central Luzon",
+        "elevation_m": 147,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.64578,
+          7.12552
+        ]
+      },
+      "properties": {
+        "name": "Francisco Bangoy International Airport",
+        "country": "Philippines",
+        "region": "Davao Region",
+        "elevation_m": 29,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.49395,
+          10.82993
+        ]
+      },
+      "properties": {
+        "name": "Iloilo International Airport",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": 8,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.98028,
+          10.3085
+        ]
+      },
+      "properties": {
+        "name": "Mactan-Cebu International Airport",
+        "country": "Philippines",
+        "region": "Central Visayas",
+        "elevation_m": 9,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6452620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9335,
+          10.7678
+        ]
+      },
+      "properties": {
+        "name": "Evelio Javier Airport",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1689398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.32458,
+          8.19781
+        ]
+      },
+      "properties": {
+        "name": "Bislig Airport",
+        "country": "Philippines",
+        "region": "Caraga",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1724768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47882,
+          8.95147
+        ]
+      },
+      "properties": {
+        "name": "Butuan Airport",
+        "country": "Philippines",
+        "region": "Caraga",
+        "elevation_m": 43,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1727447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.70694,
+          9.25361
+        ]
+      },
+      "properties": {
+        "name": "Camiguin Airport",
+        "country": "Philippines",
+        "region": "Northern Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1719696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.53333,
+          12.06667
+        ]
+      },
+      "properties": {
+        "name": "Calbayog Airport",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1720403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.10202,
+          13.854
+        ]
+      },
+      "properties": {
+        "name": "Lubang Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1705453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.03905,
+          14.41864
+        ]
+      },
+      "properties": {
+        "name": "Polillo Balesin Airport",
+        "country": "Philippines",
+        "region": "Calabarzon",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1728258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5022,
+          15.7312
+        ]
+      },
+      "properties": {
+        "name": "Dr. Juan C. Angara Airport",
+        "country": "Philippines",
+        "region": "Central Luzon",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1728265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.75278,
+          6.36733
+        ]
+      },
+      "properties": {
+        "name": "Allah Valley Airport",
+        "country": "Philippines",
+        "region": "Soccsksargen",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1731356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.45553,
+          8.61166
+        ]
+      },
+      "properties": {
+        "name": "Laguindingan International Airport",
+        "country": "Philippines",
+        "region": "Northern Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1715074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.96667,
+          14.13333
+        ]
+      },
+      "properties": {
+        "name": "Daet",
+        "country": "Philippines",
+        "region": "Bicol Region",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1716288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.21001,
+          7.16464
+        ]
+      },
+      "properties": {
+        "name": "Awang Airport",
+        "country": "Philippines",
+        "region": "Autonomous Region in Muslim Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1716767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75,
+          16.93333
+        ]
+      },
+      "properties": {
+        "name": "Cauayan Airport",
+        "country": "Philippines",
+        "region": "Cagayan Valley",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1717739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6375,
+          12.5041
+        ]
+      },
+      "properties": {
+        "name": "Catarman Airfield",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1717932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8263,
+          13.3595
+        ]
+      },
+      "properties": {
+        "name": "Marinduque Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1700904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.059,
+          7.617
+        ]
+      },
+      "properties": {
+        "name": "Malabang Airport",
+        "country": "Philippines",
+        "region": "Autonomous Region in Muslim Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1703353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0111,
+          6.0536
+        ]
+      },
+      "properties": {
+        "name": "Jolo Airport",
+        "country": "Philippines",
+        "region": "Autonomous Region in Muslim Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1710142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.27051,
+          10.52156
+        ]
+      },
+      "properties": {
+        "name": "San Vicente Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1710845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75757,
+          9.74205
+        ]
+      },
+      "properties": {
+        "name": "Puerto Princesa Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1692686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4811,
+          9.76087
+        ]
+      },
+      "properties": {
+        "name": "Surigao Airport",
+        "country": "Philippines",
+        "region": "Caraga",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1685219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.27252,
+          6.95033
+        ]
+      },
+      "properties": {
+        "name": "Mati Airport",
+        "country": "Philippines",
+        "region": "Davao Region",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1700361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2058,
+          13.5777
+        ]
+      },
+      "properties": {
+        "name": "Virac Airstrip",
+        "country": "Philippines",
+        "region": "Bicol Region",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1679803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35632,
+          17.55671
+        ]
+      },
+      "properties": {
+        "name": "Vigan Mindoro Airport",
+        "country": "Philippines",
+        "region": "Ilocos",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1679982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27136,
+          14.79445
+        ]
+      },
+      "properties": {
+        "name": "Subic Bay International Airport",
+        "country": "Philippines",
+        "region": "Central Luzon",
+        "elevation_m": 19,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53152,
+          18.17809
+        ]
+      },
+      "properties": {
+        "name": "Laoag International Airport",
+        "country": "Philippines",
+        "region": "Ilocos",
+        "elevation_m": 7,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7373,
+          13.1591
+        ]
+      },
+      "properties": {
+        "name": "Legazpi International Airport",
+        "country": "Philippines",
+        "region": "Bicol Region",
+        "elevation_m": 20,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08008,
+          12.31195
+        ]
+      },
+      "properties": {
+        "name": "Romblon Tugdan Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": 3,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61964,
+          16.3751
+        ]
+      },
+      "properties": {
+        "name": "Baguio-Loakan Airport",
+        "country": "Philippines",
+        "region": "Cordillera",
+        "elevation_m": 1295,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04664,
+          12.36152
+        ]
+      },
+      "properties": {
+        "name": "San Jose Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": 4,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.27024,
+          13.58489
+        ]
+      },
+      "properties": {
+        "name": "Naga Airport",
+        "country": "Philippines",
+        "region": "Bicol Region",
+        "elevation_m": 43,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97988,
+          20.45132
+        ]
+      },
+      "properties": {
+        "name": "Basco Airport",
+        "country": "Philippines",
+        "region": "Cagayan Valley",
+        "elevation_m": 88,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.73255,
+          17.64868
+        ]
+      },
+      "properties": {
+        "name": "Tuguegarao Airport",
+        "country": "Philippines",
+        "region": "Cagayan Valley",
+        "elevation_m": 21,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.02776,
+          11.22763
+        ]
+      },
+      "properties": {
+        "name": "Tacloban Airport",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": 3,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.30047,
+          9.33371
+        ]
+      },
+      "properties": {
+        "name": "Dumaguete–Sibulan Airport",
+        "country": "Philippines",
+        "region": "Central Visayas",
+        "elevation_m": 4,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.62784,
+          12.36689
+        ]
+      },
+      "properties": {
+        "name": "Masbate Airport",
+        "country": "Philippines",
+        "region": "Bicol Region",
+        "elevation_m": 7,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.75167,
+          11.59767
+        ]
+      },
+      "properties": {
+        "name": "Roxas",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": 3,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6300499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1,
+          12.1215
+        ]
+      },
+      "properties": {
+        "name": "Francisco B. Reyes Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7730146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.235,
+          6.10644
+        ]
+      },
+      "properties": {
+        "name": "General Santos International Airport",
+        "country": "Philippines",
+        "region": "Soccsksargen",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7730328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.496,
+          7.014
+        ]
+      },
+      "properties": {
+        "name": "Cagayan de Sulu Airport",
+        "country": "Philippines",
+        "region": "Autonomous Region in Muslim Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7730761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.34248,
+          8.60012
+        ]
+      },
+      "properties": {
+        "name": "Dipolog Airport",
+        "country": "Philippines",
+        "region": "Zamboanga Peninsula",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7910165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.069,
+          10.8581
+        ]
+      },
+      "properties": {
+        "name": "Cuyo Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7668421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.743,
+          5.04699
+        ]
+      },
+      "properties": {
+        "name": "Tawi Tawi Island Airport",
+        "country": "Philippines",
+        "region": "Autonomous Region in Muslim Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7668422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.842,
+          8.17851
+        ]
+      },
+      "properties": {
+        "name": "Labo Airport",
+        "country": "Philippines",
+        "region": "Northern Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7668423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.46118,
+          7.83073
+        ]
+      },
+      "properties": {
+        "name": "Pagadian Airport",
+        "country": "Philippines",
+        "region": "Zamboanga Peninsula",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7668424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.565,
+          11.058
+        ]
+      },
+      "properties": {
+        "name": "Ormoc Airport",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7668425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.479,
+          11.6743
+        ]
+      },
+      "properties": {
+        "name": "Borongan Airport",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7668426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.95348,
+          11.92417
+        ]
+      },
+      "properties": {
+        "name": "Boracay Airport",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": 2,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6619258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.01907,
+          10.77614
+        ]
+      },
+      "properties": {
+        "name": "Silay International Airport",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8298629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.015,
+          9.85917
+        ]
+      },
+      "properties": {
+        "name": "Siargao Airport",
+        "country": "Philippines",
+        "region": "Caraga",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8298656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.519,
+          11.05
+        ]
+      },
+      "properties": {
+        "name": "Taytay–Sandoval Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8299037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.77019,
+          9.57327
+        ]
+      },
+      "properties": {
+        "name": "Bohol–Panglao International Airport",
+        "country": "Philippines",
+        "region": "Central Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11979349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.74487,
+          18.181
+        ]
+      },
+      "properties": {
+        "name": "Lal-lo International Airport",
+        "country": "Philippines",
+        "region": "Cagayan Valley",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11919698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.68019,
+          13.11448
+        ]
+      },
+      "properties": {
+        "name": "Bicol International Airport",
+        "country": "Philippines",
+        "region": "Bicol Region",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 12513990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7434,
+          11.03575
+        ]
+      },
+      "properties": {
+        "name": "Guiuan",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1712207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.417,
+          11.202
+        ]
+      },
+      "properties": {
+        "name": "El Nido Airport",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7731006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.82906,
+          11.81014
+        ]
+      },
+      "properties": {
+        "name": "Catbalogan Airport",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8533012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.78498,
+          11.16135
+        ]
+      },
+      "properties": {
+        "name": "Bantayan Airport",
+        "country": "Philippines",
+        "region": "Central Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8533070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78306,
+          10.18696
+        ]
+      },
+      "properties": {
+        "name": "Panan-awan Airport",
+        "country": "Philippines",
+        "region": "Eastern Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8520879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.80988,
+          20.72505
+        ]
+      },
+      "properties": {
+        "name": "Itbayat Airport",
+        "country": "Philippines",
+        "region": "Autonomous Region in Muslim Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8521685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.251,
+          11.46
+        ]
+      },
+      "properties": {
+        "name": "Sicogon Island",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8298686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.06667,
+          16.2
+        ]
+      },
+      "properties": {
+        "name": "Casiguran Airport",
+        "country": "Philippines",
+        "region": "Central Luzon",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1715042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.058,
+          6.673
+        ]
+      },
+      "properties": {
+        "name": "Lwbak",
+        "country": "Philippines",
+        "region": "Soccsksargen",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8299267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.49302,
+          10.83244
+        ]
+      },
+      "properties": {
+        "name": "Port of Iloilo",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 9972400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2,
+          13.41667
+        ]
+      },
+      "properties": {
+        "name": "Calapan",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1720562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.938,
+          11.854
+        ]
+      },
+      "properties": {
+        "name": "Culion Airstrip",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11592906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.033,
+          7.753
+        ]
+      },
+      "properties": {
+        "name": "Maramag",
+        "country": "Philippines",
+        "region": "Northern Mindanao",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8299014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9808,
+          13.4407
+        ]
+      },
+      "properties": {
+        "name": "Maripcopper Airstrip",
+        "country": "Philippines",
+        "region": "Mimaropa",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7416888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.74904,
+          11.60205
+        ]
+      },
+      "properties": {
+        "name": "Roxas City Airport",
+        "country": "Philippines",
+        "region": "Western Visayas",
+        "elevation_m": 2,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 1691447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.74379,
+          13.90074
+        ]
+      },
+      "properties": {
+        "name": "Pagbilao Airport",
+        "country": "Philippines",
+        "region": "Calabarzon",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11258497
+      }
+    }
+  ]
+}
